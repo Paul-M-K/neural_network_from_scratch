@@ -12,4 +12,3 @@ we are going to be developing a simple neural network that has 784 neurons (node
 
 the first part of the training, we will be doing Forward propagation. (you take an image and you run it through the network from this network you compute what your output is going to be)
 
-min 4 
